@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-butt holes poop
+first, you eat food, then you digest it, THEN YOU POOP
 Use the left arrow to go back!
